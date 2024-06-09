@@ -1,6 +1,6 @@
 # Amazon Clone Project (HTML & CSS)
 
-![Project Image](project_image.png)
+![Project Image](project.png)
 
 ## Overview
 
@@ -35,9 +35,9 @@ To view the project locally, simply download or clone the repository and open th
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](Screenshot1.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](Screenshot2.png)
 
 ## Contributing
 

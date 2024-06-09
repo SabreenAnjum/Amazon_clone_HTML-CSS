@@ -43,15 +43,8 @@ To view the project locally, simply download or clone the repository and open th
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
 - This project is a learning exercise inspired by Amazon's website layout and design.
 - Special thanks to online resources and tutorials that helped in learning HTML and CSS.
-
----
-
-This README provides a brief overview of the project, installation instructions, basic usage information, contribution guidelines, license details, and acknowledgments. Adjust the URLs, paths, placeholders (`yourusername`), and structure to fit your specific project setup and needs.
